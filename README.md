@@ -12,3 +12,5 @@ Two versions of Big Mouth Billy Bass toy were used:
 - Newer version had two motors, one for the mouth and one for the body and tail (depending on direction of rotation).
 
 Artist fabricated new skins.
+
+[More info on the Wiki.](https://github.com/jonathanbfriedman/puffer-fish/wiki)
