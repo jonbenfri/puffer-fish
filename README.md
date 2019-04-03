@@ -13,4 +13,4 @@ Two versions of Big Mouth Billy Bass toy were used:
 
 Artist fabricated new skins.
 
-[More info on the Wiki.](https://github.com/jonathanbfriedman/puffer-fish/wiki)
+[More info on the Wiki.](https://github.com/jonbenfri/puffer-fish/wiki)
